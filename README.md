@@ -1,4 +1,4 @@
-# To-Do List App
+
 
 ## 📌 Overview
 The **To-Do List App** is a simple and interactive task management application built with JavaScript. It allows users to add, complete, and delete tasks efficiently while storing their progress in local storage.
